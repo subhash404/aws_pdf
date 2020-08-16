@@ -1,0 +1,31 @@
+Properties:- 
+	Versioning
+	Server Access Logging
+	Static Website Hosting
+	Object Level Logging 
+	Default Encryption 
+
+	Advanced Settings:- 
+		Object Lock 
+		Tags
+		Transfer Acceleration
+		Events
+		Request Pays
+Permissions:-
+	Block PUblic Access
+	Access Control Lists
+	Bucket Policy
+	CORS Configuration
+
+Management:-
+	Lifecycle 
+	Replication
+		Cross Region Replication
+		Same Region Replication 
+	Analytics 
+	Metrics 
+	Inventory 
+
+Access Points:- 
+	Virtual Private Cloud
+	Internet

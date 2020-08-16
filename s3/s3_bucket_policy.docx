@@ -1,0 +1,23 @@
+{
+  "Id": "Policy1597596729049",
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "Stmt1597596660603",
+      "Action": [
+        "s3:CreateAccessPoint",
+        "s3:CreateBucket",
+        "s3:CreateJob",
+        "s3:DeleteAccessPoint",
+        "s3:DeleteAccessPointPolicy"
+      ],
+      "Effect": "Allow",
+      "Resource": "arn:aws:s3:::suuuuuu",
+      "Principal": {
+        "AWS": [
+          "arn:aws:iam::111122223333:root"
+        ]
+      }
+    }
+  ]
+}
